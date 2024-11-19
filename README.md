@@ -1,1 +1,1 @@
-# CSU-CS-
+# CSU-CS-Competitions
